@@ -1,16 +1,17 @@
-### Hi there 👋
+##  Olá! Meu nome é Joey Rickson Guimarães Oliveira, sou estudante da Universidade Estácio de Sá e curso ciência da computação, não possuo experiência de longa data e grande, porém gostaria de uma oportunidade de aprendizagem em forma de estágio.
 
-<!--
-**Joeyzz2/joeyzz2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Conhecimentos:**
+✔ - Python
+✔ - Pacote Office
+✔ - Photoshop e adobe illustrator
+✔ - Linguagem C e visualG
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Algumas informações interessantes:**
+
+[🔗 Linkedin](https://www.linkedin.com/in/joey-rickson-guimar%C3%A3es-oliveira-54050b19a/)
+[✉️ E-mail](joeyoliveira8@gmail.com)
+
+### **Aguardo a sua avaliação, e me coloco a disposição para conversarmos sempre que necessário!👋🙂**
+:octocat:~see you
+
