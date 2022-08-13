@@ -1,4 +1,4 @@
-##  Olá! Meu nome é Joey Rickson Guimarães Oliveira, sou estudante da Universidade Estácio de Sá e curso ciência da computação, não possuo experiência de longa data e grande, porém gostaria de uma oportunidade de aprendizagem em forma de estágio.
+##  Olá! Meu nome é Joey Rickson Guimarães Oliveira, sou estudante da Universidade Estácio de Sá e curso ciência da computação, possuo uma experiência breve, porém gostaria de uma oportunidade na aréa do mercado de trabalho em ramo computação com objetivo de melhorar meu lado profissional.
 
 ### **Conhecimentos básicos:**
 ✔ - Python
