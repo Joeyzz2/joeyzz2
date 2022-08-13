@@ -24,8 +24,7 @@
  
 </div>
 
-
+#
 
 ### **Aguardo a sua avaliação e me coloco a disposição para conversarmos sempre que necessário!👋🙂**
 :octocat:~see you
-
